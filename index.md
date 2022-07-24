@@ -9,7 +9,7 @@ A: You can find the plugins I've made [hosted on the spigot website](https://www
 
 **Q: Do you have a discord server?**
 
-A: We do have a [discord server](https://discord.gg/eYW6tTuCKz), it is primiarily used for support of our plugins.
+A: We do have a [discord server](https://discord.gg/eYW6tTuCKz), it is primarily used for support of our plugins.
 
 ### Plugins
 
