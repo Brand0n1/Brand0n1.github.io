@@ -25,3 +25,6 @@ A: We do have a [discord server](https://discord.gg/eYW6tTuCKz), it is primarily
 - [MentionPlayer](https://www.spigotmc.org/resources/mentionplayer.100246/)
 - [DeathMessages](https://www.spigotmc.org/resources/deathmessages.100244/)
 
+
+### Pages
+- [Mob List (SpawnerShards)](https://brand0n1.github.io/minecraft-mob-list/)
