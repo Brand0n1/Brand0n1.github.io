@@ -29,3 +29,4 @@ A: We do have a [discord server](https://discord.gg/eYW6tTuCKz), it is primarily
 ### Pages
 - [Mob List (SpawnerShards)](https://brand0n1.github.io/minecraft-mob-list/)
 - [Date Formatting](https://brand0n1.github.io/date-formatting/)
+- [Time Formatting](https://brand0n1.github.io/time-formatting/)
