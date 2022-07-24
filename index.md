@@ -2,34 +2,24 @@
 
 This page will allow you to view all the information you need for any plugin that I have created. This site will also help out in finding out further information about the config files of my plugins.
 
-### Markdown
+### FAQ
+Q: Where can I download your plugins?
+A: You can find the plugins I've made [hosted on the spigot website](https://www.spigotmc.org/resources/authors/brand0n_.109140/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Q: Do you have a discord server?
+A: We do have a [discord server](https://discord.gg/eYW6tTuCKz), it is primiarily used for support of our plugins.
 
-```markdown
-Syntax highlighted code block
+### Plugins
 
-# Header 1
-## Header 2
-### Header 3
+- [NoGlassBottles] (https://www.spigotmc.org/resources/noglassbottles.98581/)
+- [GlowLichenAddon] (https://www.spigotmc.org/resources/glowlichenaddon.100565/)
+- [InvisibleFrames] (https://www.spigotmc.org/resources/invisibleframes.101199/)
+- [MOTD] (https://www.spigotmc.org/resources/motd.103174/)
+- [HoverStats] (https://www.spigotmc.org/resources/hoverstats.100245/)
+- [Lead FIx] (https://www.spigotmc.org/resources/lead-fix.99332/)
+- [StatsTracker] (https://www.spigotmc.org/resources/statstracker.100248/)
+- [AnvilCombinePrice] (https://www.spigotmc.org/resources/anvilcombineprice.100243/)
+- [PickaxeCounter] (https://www.spigotmc.org/resources/pickaxecounter.100247/)
+- [MentionPlayer] (https://www.spigotmc.org/resources/mentionplayer.100246/)
+- [DeathMessages] (https://www.spigotmc.org/resources/deathmessages.100244/)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Brand0n1/Brand0n1.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
