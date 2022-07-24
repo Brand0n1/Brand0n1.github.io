@@ -1,8 +1,6 @@
 ## Tardis Development Documentation
 
-You can use the [editor on GitHub](https://github.com/Brand0n1/Brand0n1.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page will allow you to view all the information you need for any plugin that I have created. This site will also help out in finding out further information about the config files of my plugins.
 
 ### Markdown
 
