@@ -3,10 +3,12 @@
 This page will allow you to view all the information you need for any plugin that I have created. This site will also help out in finding out further information about the config files of my plugins.
 
 ### FAQ
-Q: Where can I download your plugins?
+**Q: Where can I download your plugins?**
+
 A: You can find the plugins I've made [hosted on the spigot website](https://www.spigotmc.org/resources/authors/brand0n_.109140/)
 
-Q: Do you have a discord server?
+**Q: Do you have a discord server?**
+
 A: We do have a [discord server](https://discord.gg/eYW6tTuCKz), it is primiarily used for support of our plugins.
 
 ### Plugins
